@@ -28,7 +28,7 @@ int main()
 
 int my_sqrt(int n)
 {
-    double i = 1;
+    int i = 1;
     while(i * i < n)
     {
         i++;

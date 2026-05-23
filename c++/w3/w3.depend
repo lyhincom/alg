@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1778951393 source:c:\000. projects\07. algs\c++\w3\main.cpp
+1779564363 source:c:\000. projects\07. algs\c++\w3\main.cpp
 	<iostream>
+	<cmath>
 
